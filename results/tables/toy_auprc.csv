@@ -1,0 +1,2 @@
+label,source,shock_t,auprc_lstm,auprc_gcn,auprc_temporal,hero,note
+TOY,synthetic_toy,80,0.157481,0.0882,0.08297,/workspace/temporal-gnn-market-risk/results/figures/toy_shock.png,TOY synthetic shock at t=80; not COVID/SVB; connectedness not contagion
