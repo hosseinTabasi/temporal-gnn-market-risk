@@ -1,0 +1,4 @@
+seed: 0
+n_steps: 120
+shock_t: 80
+lookback: 20

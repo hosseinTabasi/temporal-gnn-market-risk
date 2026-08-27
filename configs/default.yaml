@@ -1,0 +1,5 @@
+seed: 0
+n_steps: 120
+shock_t: 80
+lookback: 20
+# Public prices: drop a CSV at data/nasdaq100_prices.csv if obtained legally.
